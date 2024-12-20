@@ -1,5 +1,7 @@
 # I'm working on learning pandas, git, and all things data science!
 
-if you would like to work on these files for yourself make sure to run this command in your termnal: 
+if you would like to work on these files for yourself:
 
-pip install -r requirements.txt
+1.) create a virtual enviroment 
+
+2.) pip install -r requirements.txt
